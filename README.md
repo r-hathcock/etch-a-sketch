@@ -1,4 +1,1 @@
-TODO
-
-[x] center clear button
-[ ] change colors
+A simple etch-a-sketch style application that can use multiple colors.
