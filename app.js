@@ -39,8 +39,7 @@ function etch() {
             case 'green': {
                 colorChange = 'black';
                 break;
-            }
-                
+            }   
         }
     }
 }
@@ -53,9 +52,7 @@ function createCanvas() {
         node.className = "node";
         document.getElementById("etch-container").appendChild(node);
         node.style.backgroundColor = 'white';
-    }
-
-    
+    } 
 }
 
 
